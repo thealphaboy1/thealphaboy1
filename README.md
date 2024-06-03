@@ -15,8 +15,8 @@
 
 ## My Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHALCOGEN645&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHALCOGEN645&layout=compact&theme=midnight-purple&hide=Css)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thealphaboy1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thealphaboy1&layout=compact&theme=midnight-purple&hide=Css)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thealphaboy1)
 
@@ -24,7 +24,7 @@
 # Some Projects
 
 <a href="https://github.com/thealphaboy1/SPAMBOT.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PRADHAN474&repo=ALSPAM&cache_seconds=86400&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thealphaboy1&repo=SPAMBOT&cache_seconds=86400&theme=gotham">
 
 
 <h1> <img src="https://te.legra.ph/file/1f5f400d5a16ae3a89343.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
